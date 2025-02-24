@@ -1,9 +1,3 @@
-//
-//  RootView.swift
-//  Pokemon
-//
-//  Created by Peier Chen on 2025-02-24.
-//
 import SwiftUI
 
 struct RootView: View {
