@@ -1,0 +1,24 @@
+{
+  "originHash" : "f166dae8db86cac5be04128a545dce8efe1c1118d65401defcfafefaaa56a696",
+  "pins" : [
+    {
+      "identity" : "swiftpokeapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bdunay3/SwiftPokeApi.git",
+      "state" : {
+        "revision" : "1a11c1d5437b2659534bb3efc8e5b3e8a19ef42a",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "vsm-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wayfair/vsm-ios.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f9cf17b6798bbb7e809690ff4e0b10cd68b7bae4"
+      }
+    }
+  ],
+  "version" : 3
+}
