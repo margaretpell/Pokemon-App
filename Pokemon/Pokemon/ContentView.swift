@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Pokemon
-//
-//  Created by Peier Chen on 2025-01-14.
-//
-
 import SwiftUI
 import PokeApi
 import PokeApiAsync
