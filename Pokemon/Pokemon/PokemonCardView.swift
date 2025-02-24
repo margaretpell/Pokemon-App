@@ -1,10 +1,3 @@
-//
-//  PokemonCardView.swift
-//  Pokemon
-//
-//  Created by Peier Chen on 2025-01-30.
-//
-
 import SwiftUI
 import PokeApi
 import PokeApiModels
